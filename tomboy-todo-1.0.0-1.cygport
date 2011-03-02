@@ -1,0 +1,5 @@
+inherit mono
+
+
+HOMEPAGE="http://romain.blogreen.org/projects/tomboy-todo/"
+SRC_URI="http://romain.blogreen.org/distfiles/${P}.tar.gz"

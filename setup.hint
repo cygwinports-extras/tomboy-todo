@@ -1,0 +1,5 @@
+category: Gnome
+requires: mono mono-gtk-sharp2.0 mono-pango-sharp2.0 tomboy
+sdesc: "Tomboy plugin for highlighting FIXME/TODO markers"
+ldesc: "A plugin for the Tomboy note taking application which highlights 
+the words FIXME, TODO, and XXX."
